@@ -1,0 +1,12 @@
+# Veggies
+
+kale
+parsnips
+carrots
+
+# Fruits
+
+apple
+mango
+pear
+cranberry
